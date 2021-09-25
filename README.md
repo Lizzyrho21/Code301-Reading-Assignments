@@ -12,6 +12,7 @@ Hello! Welcome to my reading notes page. Take a look around and gain some insigh
 ## Code 301 - Intermediate Software Development
 [Components](./Components.md)
 [Props](./props.md)
+[Lists, Keys & More](./Keys&more.md)
 
 
 ## Code 401 - Advanced Software Development
