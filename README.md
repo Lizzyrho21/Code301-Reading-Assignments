@@ -13,6 +13,7 @@ Hello! Welcome to my reading notes page. Take a look around and gain some insigh
 [Components](./Components.md)
 [Props](./props.md)
 [Lists, Keys & More](./Keys&more.md)
+[Forms and Ternary Operator](./Forms.md)
 
 
 ## Code 401 - Advanced Software Development
