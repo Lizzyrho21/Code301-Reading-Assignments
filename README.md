@@ -15,7 +15,7 @@ Hello! Welcome to my reading notes page. Take a look around and gain some insigh
 [Lists, Keys & More](./Keys&more.md)
 [Forms and Ternary Operator](./Forms.md)
 [Node.js](./Node.md)
-[REST]('./REST')
+[REST]('./REST.md')
 
 
 
